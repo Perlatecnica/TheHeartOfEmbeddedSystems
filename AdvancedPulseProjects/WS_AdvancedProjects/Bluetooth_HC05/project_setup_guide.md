@@ -20,7 +20,7 @@ This guide walks you through creating a new STM32CubeIDE project from scratch an
 | PA10 (CN10 pin 33) | TX | UART1 RX ← HC-05 TX |
 | PA8 (CN10 pin 23) | EN/KEY | Mode control pin |
 | GND (CN6 pin 6) | GND | Ground connection |
-| 5V  (CN6 pin 4) | VCC | Power supply (3.3V) |
+| 5V  (CN6 pin 4) | VCC | Power supply (5.0V) |
 
 ⚠️ **Note**: Some HC-05 modules require 5V. Check your module specifications and use CN6 pin 5 (+5V) if needed.
 
