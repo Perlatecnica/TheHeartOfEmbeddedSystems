@@ -56,7 +56,7 @@ A comprehensive Bluetooth-controlled LED system featuring:
 - Bluetooth module configuration
 - System architecture design
 
-**[📖 Detailed Documentation](application_documentation.md)**
+**[📖 Detailed Documentation](https://github.com/Perlatecnica/TheHeartOfEmbeddedSystems/blob/master/AdvancedPulseProjects/WS_AdvancedProjects/Bluetooth_HC05/application_documentation.md)**
 
 ---
 
