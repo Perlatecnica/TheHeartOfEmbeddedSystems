@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<item key="replaceBarOpen" value="false"/>
+	<list key="searchhistory">
+		<item value="Calibration_Get_Duty_For_RPM"/>
+		<item value="HAL_TIM_PWM_Start(&amp;htim3, TIM_CHANNEL_1);"/>
+	</list>
+</section>

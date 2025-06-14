@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Bluetooth_HC05/HC05_Drinver&apos; to &apos;HC05_Driver&apos;" description="Rename resource &apos;HC05_Drinver&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="HC05_Drinver" name="HC05_Driver" stamp="1749825628353" updateReferences="true"/>
+</session>
