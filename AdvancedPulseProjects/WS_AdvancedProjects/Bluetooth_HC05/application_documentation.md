@@ -28,7 +28,7 @@ This application implements a Bluetooth-controlled LED system using an STM32F401
 | PA9 (UART1_TX) | RX | Data transmission to HC-05 |
 | PA10 (UART1_RX) | TX | Data reception from HC-05 |
 | PA8 (GPIO) | EN/KEY | Mode control pin |
-| 3.3V | VCC | Power supply |
+| 5.0V | VCC | Power supply |
 | GND | GND | Ground connection |
 
 ### LED Control
