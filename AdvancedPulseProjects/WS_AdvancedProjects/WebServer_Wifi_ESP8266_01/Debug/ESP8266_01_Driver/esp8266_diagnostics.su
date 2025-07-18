@@ -1,0 +1,8 @@
+../ESP8266_01_Driver/esp8266_diagnostics.c:34:13:ESP8266_FlushAndRead	536	static
+../ESP8266_01_Driver/esp8266_diagnostics.c:64:13:ESP8266_TestBaudrates	112	static
+../ESP8266_01_Driver/esp8266_diagnostics.c:114:13:ESP8266_MonitorConnectionResponse	1232	static
+../ESP8266_01_Driver/esp8266_diagnostics.c:194:6:ESP8266_DiagnosticTest	304	static
+../ESP8266_01_Driver/esp8266_diagnostics.c:267:6:ESP8266_StepByStepTest	64	static
+../ESP8266_01_Driver/esp8266_diagnostics.c:306:6:ESP8266_TestWiFiConnection	280	static
+../ESP8266_01_Driver/esp8266_diagnostics.c:355:6:ESP8266_QuickTest	8	static
+../ESP8266_01_Driver/esp8266_diagnostics.c:380:6:ESP8266_FullDiagnostic	16	static

@@ -1,0 +1,6 @@
+../WebServer/webserver.c:47:6:WebServer_Init	24	static
+../WebServer/webserver.c:60:6:WebServer_Process	24	static
+../WebServer/webserver.c:83:6:WebServer_HandleRequest	40	static
+../WebServer/webserver.c:114:6:WebServer_SendHTMLPage	40	static
+../WebServer/webserver.c:140:6:WebServer_SendHTTPResponse	232	static
+../WebServer/webserver.c:160:6:WebServer_SetLED	16	static

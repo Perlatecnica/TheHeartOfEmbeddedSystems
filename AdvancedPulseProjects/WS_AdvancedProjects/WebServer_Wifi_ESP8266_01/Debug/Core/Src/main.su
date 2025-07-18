@@ -1,0 +1,13 @@
+../Core/Src/main.c:77:6:Print_Status	16	static
+../Core/Src/main.c:88:5:Connect_To_WiFi	3032	static
+../Core/Src/main.c:313:5:Scan_WiFi_Networks_Detailed	4720	static
+../Core/Src/main.c:528:5:Start_Web_Server	176	static
+../Core/Src/main.c:571:6:Handle_LED_Command	16	static
+../Core/Src/main.c:589:6:Send_HTTP_Response	840	static
+../Core/Src/main.c:697:6:Process_Client_Request	448	static
+../Core/Src/main.c:846:5:main	144	static
+../Core/Src/main.c:1018:6:SystemClock_Config	88	static
+../Core/Src/main.c:1065:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:1098:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:1131:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:1171:6:Error_Handler	4	static,ignoring_inline_asm

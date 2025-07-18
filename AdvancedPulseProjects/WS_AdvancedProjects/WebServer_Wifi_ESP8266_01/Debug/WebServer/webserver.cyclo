@@ -1,0 +1,6 @@
+../WebServer/webserver.c:47:6:WebServer_Init	1
+../WebServer/webserver.c:60:6:WebServer_Process	3
+../WebServer/webserver.c:83:6:WebServer_HandleRequest	4
+../WebServer/webserver.c:114:6:WebServer_SendHTMLPage	3
+../WebServer/webserver.c:140:6:WebServer_SendHTTPResponse	1
+../WebServer/webserver.c:160:6:WebServer_SetLED	2
