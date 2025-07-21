@@ -34,31 +34,9 @@ Projects involving sensor interfacing, data logging, signal processing, and meas
 ### 🔧 System Integration
 Complex projects that combine multiple subsystems and demonstrate professional embedded architecture.
 
-## Current Projects
 
-### 1. HC-05 Bluetooth Controller 🔵
-**Category**: Communication & Connectivity  
-**Complexity**: Intermediate  
-**Hardware**: STM32F401RE Nucleo + HC-05 Bluetooth Module
 
-A comprehensive Bluetooth-controlled LED system featuring:
-- Custom HC-05 driver implementation
-- Intelligent command dispatcher
-- Dual UART communication (Bluetooth + Debug)
-- Real-time system monitoring
-- Professional error handling
-- Extensible command architecture
 
-**Key Learning Objectives**:
-- Advanced UART interrupt handling
-- Custom driver development
-- Command parsing and dispatching
-- Bluetooth module configuration
-- System architecture design
-
-**[📖 Detailed Documentation](https://github.com/Perlatecnica/TheHeartOfEmbeddedSystems/blob/master/AdvancedPulseProjects/WS_AdvancedProjects/Bluetooth_HC05/application_documentation.md)**
-
----
 
 ## Project Structure
 
@@ -168,3 +146,49 @@ These projects are educational resources designed to accompany "The Heart of the
 **Ready to advance your embedded skills?** Start with the HC-05 Bluetooth Controller and experience the difference between basic tutorials and professional-grade embedded development!
 
 *Part of "The Heart of the Embedded Systems" series - where embedded programming meets professional practice.*
+
+## Current Projects
+
+### 1. HC-05 Bluetooth Controller 🔵
+**Category**: Communication & Connectivity  
+**Complexity**: Intermediate  
+**Hardware**: STM32F401RE Nucleo + HC-05 Bluetooth Module
+
+A comprehensive Bluetooth-controlled LED system featuring:
+- Custom HC-05 driver implementation
+- Intelligent command dispatcher
+- Dual UART communication (Bluetooth + Debug)
+- Real-time system monitoring
+- Professional error handling
+- Extensible command architecture
+
+**Key Learning Objectives**:
+- Advanced UART interrupt handling
+- Custom driver development
+- Command parsing and dispatching
+- Bluetooth module configuration
+- System architecture design
+
+**[📖 Detailed Documentation](https://github.com/Perlatecnica/TheHeartOfEmbeddedSystems/blob/master/AdvancedPulseProjects/WS_AdvancedProjects/Bluetooth_HC05/application_documentation.md)**
+
+---
+
+
+
+
+### 2. WebServer_Wifi_ESP8266_01 🌐
+**Category**: Communication & Connectivity  
+**Complexity**: Intermediate  
+**Hardware**: STM32 Nucleo Board + ESP8266 WiFi Module
+
+This project demonstrates how to build a WiFi-based HTTP server using an ESP8266 module connected to an STM32 board.  
+It includes a Python CLI tool that sends commands to the server for turning an LED on/off or querying its status.
+
+**Main Features**:
+- Automatic WiFi scanning and connection to `SCEL-net`
+- Simple web API to control onboard GPIO
+- UART-based debug output
+- Compatible CLI interface using standard Python
+
+📄 [General Usage Instructions](./INSTRUCTIONS.md)  
+📘 [STM32 Web Server Details](./README.md)
