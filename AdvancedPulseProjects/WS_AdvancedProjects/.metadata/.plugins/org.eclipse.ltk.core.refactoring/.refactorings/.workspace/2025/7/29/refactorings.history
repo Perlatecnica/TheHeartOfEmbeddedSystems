@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;WebServer_Wifi_ESP8266_01/Core/Src/main_test.c&apos;" deleteContents="false" description="Delete resource &apos;WebServer_Wifi_ESP8266_01/Core/Src/main_test.c&apos;" element1="/WebServer_Wifi_ESP8266_01/Core/Src/main_test.c" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1752857846505"/>
+</session>

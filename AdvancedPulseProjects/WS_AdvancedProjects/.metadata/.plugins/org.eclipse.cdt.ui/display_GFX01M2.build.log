@@ -1,0 +1,10 @@
+18:59:44 **** Incremental Build of configuration Debug for project display_GFX01M2 ****
+make -j32 all 
+arm-none-eabi-size  display_GFX01M2.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9900	     12	   1732	  11644	   2d7c	display_GFX01M2.elf
+Finished building: default.size.stdout
+ 
+
+18:59:44 Build Finished. 0 errors, 0 warnings. (took 640ms)
+

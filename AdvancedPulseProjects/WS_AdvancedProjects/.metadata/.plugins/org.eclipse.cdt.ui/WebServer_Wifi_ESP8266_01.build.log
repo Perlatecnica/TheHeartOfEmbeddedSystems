@@ -1,0 +1,10 @@
+18:57:29 **** Build of configuration Debug for project WebServer_Wifi_ESP8266_01 ****
+make -j32 all 
+arm-none-eabi-size  WebServer_Wifi_ESP8266_01.elf 
+   text	   data	    bss	    dec	    hex	filename
+  24120	     92	   5156	  29368	   72b8	WebServer_Wifi_ESP8266_01.elf
+Finished building: default.size.stdout
+ 
+
+18:57:30 Build Finished. 0 errors, 0 warnings. (took 456ms)
+
